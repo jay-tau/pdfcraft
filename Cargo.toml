@@ -63,6 +63,7 @@ kurbo = "0.13"
 
 # testing
 proptest = "1"
+hegeltest = "0.49"
 
 # ui
 egui = "0.36"

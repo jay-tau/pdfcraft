@@ -1,6 +1,8 @@
 *~
 plan/
 /target
+# Hegel's failure database (property-based tests)
+.hegel/
 /dist
 /corpus
 /log
